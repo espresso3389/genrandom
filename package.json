@@ -1,0 +1,14 @@
+{
+  "name": "genrandom",
+  "main": "./lib/genrandom",
+  "version": "0.0.0",
+  "description": "A package to generate random text.",
+  "activationEvents": [],
+  "repository": "https://github.com/espresso3389/genrandom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
