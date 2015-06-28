@@ -1,5 +1,5 @@
 crypto = require('crypto')
-unitlen = 16
+unitlen = 24
 
 module.exports =
 
