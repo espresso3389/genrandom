@@ -1,7 +1,7 @@
 {
   "name": "genrandom",
   "main": "./lib/genrandom",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A package to generate random text.",
   "activationCommands": [],
   "repository": "https://github.com/espresso3389/genrandom",
