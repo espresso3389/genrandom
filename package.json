@@ -3,7 +3,7 @@
   "main": "./lib/genrandom",
   "version": "0.1.0",
   "description": "A package to generate random text.",
-  "activationEvents": [],
+  "activationCommands": [],
   "repository": "https://github.com/espresso3389/genrandom",
   "license": "MIT",
   "engines": {
